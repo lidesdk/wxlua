@@ -1,0 +1,8 @@
+[lfs]
+author    = Roberto Ierusalimschy, André Carregal and Tomás Guisasola (part of Kepler Project)
+date      = 2016/12/27
+version   = 1.4.20
+windows   = x64:windows/x64/clibs/lfs.dll|x86:windows/x86/clibs/lfs.dll
+linux     = x86:linux/x86/clibs/lfs.so
+source    = https://keplerproject.github.io/luafilesystem/
+mantainer = lide team
