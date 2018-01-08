@@ -2,8 +2,8 @@
 author    = Julian Smart, Robert Roebling
 date      = 2018/01/07
 version   = 2.8.12-2
-windows   = x64:windows/x64/clibs/wx.dll|x86:windows/x86/clibs/wx.dll
-linux     = x86:linux/x86/clibs/wx.so
+windows   = x86:windows/x86/clibs/wx.dll
+linux     = x86:linux/x86/clibs/wx.sox|86:linux/x86/clibs/wx.so
 source    = 
 license   = wxWidgets license (http://www.opensource.org/licenses/wxwindows.php)
 mantainer = lide team
