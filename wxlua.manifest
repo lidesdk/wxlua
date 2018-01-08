@@ -1,8 +1,8 @@
-[lfs]
-author    = Roberto Ierusalimschy, André Carregal and Tomás Guisasola (part of Kepler Project)
-date      = 2016/12/27
-version   = 1.4.20
-windows   = x64:windows/x64/clibs/lfs.dll|x86:windows/x86/clibs/lfs.dll
-linux     = x86:linux/x86/clibs/lfs.so
-source    = https://keplerproject.github.io/luafilesystem/
+[wx]
+author    = 
+date      = 2018/01/07
+version   = 2.8.12
+windows   = x64:windows/x64/clibs/wx.dll|x86:windows/x86/clibs/wx.dll
+linux     = x86:linux/x86/clibs/wx.so
+source    = 
 mantainer = lide team
