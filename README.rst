@@ -52,9 +52,3 @@ Usage
   -- Does nothing if running from wxLua, wxLuaFreeze, or wxLuaEdit since the
   -- MainLoop is already running or will be started by the C++ program.
   wx.wxGetApp():MainLoop()
-
-  local ZipWriter = require "ZipWriter"
-  ZipStream = ZipWriter.new()
-  ZipStream:open_stream( assert(io.open('readme.zip', 'w+b')), true )
-  ZipStream:write('README.md', make_reader('README.md'))
-  ZipStream:close()
